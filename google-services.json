@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "521258225155",
+    "project_id": "moysc-3bb75",
+    "storage_bucket": "moysc-3bb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521258225155:android:3ff0b673824f4796b68836",
+        "android_client_info": {
+          "package_name": "mx.edu.uteq.dmm.t196.moysc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521258225155-n0f809vthmvfvf0kivnmh44bfp8kcf7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Cru87ET8X-vW-gmemf3CHtNuqR2Oivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521258225155-n0f809vthmvfvf0kivnmh44bfp8kcf7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521258225155-gove8oq2gl3jqukv9fj6afnuoo0pc4c4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.edu.uteq.dmm.t196.moysc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

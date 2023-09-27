@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "moysc",
+    "slug": "moysc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+			"bundleIdentifier": "mx.edu.uteq.dmm.t196.moysc",
+			"googleServicesFile": "./GoogleService-Info.plist",
+			"config" : {
+				"googleMapsApiKey": "AIzaSyBhmLLZAYkuEe-HhfWxpw5wgv2qtbRVy5w"
+			},
+			"supportsTablet": true
+		},
+		"android": {
+			"package" : "mx.edu.uteq.dmm.t196.moysc",
+			"googleServicesFile": "./google-services.json",
+			"config" : {
+				"googleMaps": {
+					"apiKey": "AIzaSyBhmLLZAYkuEe-HhfWxpw5wgv2qtbRVy5w"
+				}
+			},
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/adaptive-icon.png",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
